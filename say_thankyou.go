@@ -1,5 +1,5 @@
 package thankyou
 
-func SayThankYou() string{
-	return "Thankyou Go"
+func SayThankYou(name string) string {
+	return "Thankyou" + name
 }
