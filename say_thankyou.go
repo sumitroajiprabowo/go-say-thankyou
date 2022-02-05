@@ -1,5 +1,5 @@
 package thankyou
 
 func SayThankYou() string{
-	return "Thankyou Golang"
+	return "Thankyou Go"
 }
